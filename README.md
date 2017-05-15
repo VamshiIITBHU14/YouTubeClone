@@ -11,3 +11,5 @@ It includes features like:
 8) JSON parsing in most optimised way
 9) Play a remote video using AVPlayer inside the app
 10) Video player controls like Pause, Play, Progress indicator etc.
+
+Converted from Swift2 (Source: https://www.letsbuildthatapp.com) to Swift3.
