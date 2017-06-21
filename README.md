@@ -1,5 +1,5 @@
 # YouTubeClone
-This project is a clone of YouTube. But the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologies.
+This project is a clone of YouTube. But the main intention is to show how to write clean code, using proper MVC patterns and re-usable coding methodologies. Converted from Swift2 (Source: https://www.letsbuildthatapp.com) to Swift3.
 It includes features like:
 1) Building UICollectionView all from code without using Storyboards
 2) Customisable navigation bar to match that of YouTube
